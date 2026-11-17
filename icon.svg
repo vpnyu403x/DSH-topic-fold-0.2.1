@@ -1,0 +1,6 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Topic folding">
+  <rect x="6" y="9" width="20" height="4" rx="2" fill="#4D6BFE"/>
+  <rect x="6" y="16" width="20" height="4" rx="2" fill="#8C99AE"/>
+  <rect x="6" y="23" width="12" height="4" rx="2" fill="#C1C8D4"/>
+  <path d="M29 15.5 32 19 29 22.5" stroke="#4D6BFE" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

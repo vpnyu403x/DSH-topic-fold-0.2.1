@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Topic folding",
+    "description": "Folds each chat topic (one prompt and its answer) into its prompt line so a long Session can be scanned. A chevron beside each prompt folds one topic; the Session header button, or a right-click on empty transcript space, folds every topic at once."
+  }
+}

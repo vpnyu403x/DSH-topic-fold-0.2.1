@@ -1,0 +1,7 @@
+# dsh-topic-fold — collapse each chat topic.
+# The feature lives in the browser half; this row only keeps the bundle
+# composable so Plugins can list, enable, and disable it.
+- insert:
+    - id: topic-fold
+      name: '@local/dsh-topic-fold'
+      config: {}
